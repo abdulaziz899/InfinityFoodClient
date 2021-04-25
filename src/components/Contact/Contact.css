@@ -1,0 +1,15 @@
+.contact{
+    
+    position: relative;
+    z-index: 1;
+}
+.contact::before{
+    position: absolute;
+    content: "";
+    top:0;
+    width: 100%;
+    height: 100%;
+    background: rgb(169, 168, 179);
+    opacity: .9;
+    z-index: -1;
+}

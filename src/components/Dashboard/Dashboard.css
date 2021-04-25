@@ -1,0 +1,9 @@
+.formFieldContainer{
+    width: 80%;
+    margin: 0px auto;
+    padding: 50px;
+}
+.formFieldContainer input{
+    margin: 10px 0px;
+    width: 80%;
+}

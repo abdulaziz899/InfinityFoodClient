@@ -1,0 +1,15 @@
+.listContainer{
+    height: 100vh;
+    background: rgb(107, 102, 102);
+    padding-top: 100px;
+}
+
+.listContainer p{
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.listContainer p:hover{
+    background-color: aqua;
+    color: black;
+}
